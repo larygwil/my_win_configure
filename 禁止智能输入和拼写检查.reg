@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\TabletTip\1.7]
+"EnableTextPrediction"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\TabletTip\1.7]
+"EnableSpellchecking"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Input\Settings\proc_1\loc_0409\im_1]
+"PredictInIME"=dword:00000000

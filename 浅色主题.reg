@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:1
+"SystemUsesLightTheme"=dword:1
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM]
+"ColorPrevalence"=dword:1
+"AccentColor"=dword:ff0077bb
